@@ -28,6 +28,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@ctrl/plex": "^1.5.3",
     "@fontsource/fira-mono": "^4.2.2",
     "@lukeed/uuid": "^2.0.0",
     "cookie": "^0.4.1"
